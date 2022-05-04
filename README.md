@@ -1,2 +1,2 @@
-# Body_Building_Club
+# BodyBuilding
 Body building club project
